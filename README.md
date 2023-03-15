@@ -1,4 +1,4 @@
-## User Authentication API
+## Notes API
 #### Technologies
 - Golang
 - Gorm
